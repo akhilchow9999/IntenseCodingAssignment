@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\IntenseCodingQues2\bin\Debug\IntenseCodingQues2.exe.config
+C:\Users\HP\source\repos\IntenseCodingQues2\bin\Debug\IntenseCodingQues2.exe
+C:\Users\HP\source\repos\IntenseCodingQues2\bin\Debug\IntenseCodingQues2.pdb
+C:\Users\HP\source\repos\IntenseCodingQues2\obj\Debug\IntenseCodingQues2.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\IntenseCodingQues2\obj\Debug\IntenseCodingQues2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\IntenseCodingQues2\obj\Debug\IntenseCodingQues2.exe
+C:\Users\HP\source\repos\IntenseCodingQues2\obj\Debug\IntenseCodingQues2.pdb

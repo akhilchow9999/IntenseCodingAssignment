@@ -217,7 +217,7 @@ namespace IntenseCodingQuestion1
                 else
                     Console.WriteLine("Please provide valid client details");
 
-                Console.WriteLine("------------------------------------");
+                Console.WriteLine("-----Thank  You-----");
             }
         }
     }

@@ -77,9 +77,9 @@ namespace IntenseCodingQuestion2
                 {
                     Console.Write(RotatedArray[i] + " ");
                 }
+                Console.WriteLine();
                 Console.WriteLine("---Thank You---");
 
-                Console.ReadKey();
             }
         }
     }

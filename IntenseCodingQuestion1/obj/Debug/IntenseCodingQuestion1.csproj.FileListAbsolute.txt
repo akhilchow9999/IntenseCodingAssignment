@@ -5,3 +5,10 @@ C:\Users\HP\source\repos\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1
 C:\Users\HP\source\repos\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.exe
 C:\Users\HP\source\repos\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.pdb
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\bin\Debug\IntenseCodingQuestion1.exe.config
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\bin\Debug\IntenseCodingQuestion1.exe
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\bin\Debug\IntenseCodingQuestion1.pdb
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.exe
+C:\Users\HP\Desktop\C#Project\IntenseCodingAssignment\IntenseCodingQuestion1\obj\Debug\IntenseCodingQuestion1.pdb

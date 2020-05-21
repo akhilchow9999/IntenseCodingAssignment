@@ -65,17 +65,17 @@ namespace IntenseCodingQuestion1
             int HandicappedParkingTracker = 0; //Tracker for Handicapped slots
             int RegularParkingTracker = 0; //Tracker for Regular slots
             int CompactparkingTracker = 0; //Tracker for Compact slots
-            int ClientNumber = 0; //Keeping a track for no of requests made to the program
+            int RequestNumber = 0; //Keeping a track for no of requests made to the program
             string Park; //Variable to store if client's input to park or not
             string ParkingType; //Variable to check type of parking
 
             //infinite loop
             while (1 > 0)
             {
-                ClientNumber++;
+                RequestNumber++;
 
                 //Checking if the client is handicapped or Senior Citizen
-                Console.WriteLine("Client :" + ClientNumber);
+                Console.WriteLine("Request number : " + RequestNumber);
                 Console.WriteLine("Is the client a handicapped or senior citizen?(Y/N)");
                 string isHandicappedOrSeniorCitizen = Console.ReadLine();
 
@@ -118,7 +118,7 @@ namespace IntenseCodingQuestion1
 
                     //If client chooses not to park
                     else if (Park == "N" || Park == "n")
-                        continue;
+                        Console.WriteLine("Okay, We Accpet Your Decision");
 
                     //If Client enters wrong input for parking
                     else
@@ -205,7 +205,7 @@ namespace IntenseCodingQuestion1
 
                     //If Client chooses not to park
                     else if (Park == "N" || Park == "n")
-                        Console.WriteLine();
+                        Console.WriteLine("Okay, We accept your answer");
 
                     //If client provides wrong input to parking
                     else
